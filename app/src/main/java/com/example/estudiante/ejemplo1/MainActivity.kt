@@ -8,6 +8,7 @@ import android.os.Bundle
  * Carnet: 00168117
  * Curso: Programación de Dispositivos Móviles
  * Ciclo: 01/19
+ * Yaaaay
 */
 
 class MainActivity : AppCompatActivity() {
